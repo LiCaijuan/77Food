@@ -1,0 +1,102 @@
+.nav{
+	list-style: none;
+	background-color: cadetblue;
+	width: 1000px;
+	margin: 30px auto ;
+	overflow: hidden;
+	
+	}
+.nav li{
+	float: left;
+}
+.nav a{
+	display: block;
+	width: 200px;
+	text-align: center;
+	padding: 6px 0;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 32px;
+}
+.nav li:hover{
+	background-color: darkslategrey;
+}
+
+.logo{
+	padding-left: 80px;
+	height: 350px;
+	width: 100%;
+	background-image: url(../img/banner.png);
+	background-size: 100% auto;
+}
+
+.ingredients{
+	width: 400px;
+	height: 600px;
+	float: left;
+	margin-top: 60px;
+	padding-left: 80px;
+	
+}
+.ing1{
+	font-size: 40px;
+	color: darkgray;
+	font-weight: bolder;
+}
+.ing2{
+	text-indent: 32px;
+	color: black;
+	font-size: 30px;
+}
+.menu{
+	width: 400px;
+	height: 600px;
+	float: right;
+	margin-top: 60px;
+}
+.men1{
+	font-size: 40px;
+	color: darkgray;
+	font-weight: bolder;
+}
+.men2{
+	text-indent: 32px;
+	color: black;
+	font-size: 30px;
+}
+.news1{
+	font-size: 40px;
+	color: darkgray;
+	font-weight: bolder;
+}
+.news2{
+	text-indent: 32px;
+	color: black;
+	font-size: 30px;
+}
+.ab1{
+	font-size: 40px;
+	color: darkgray;
+	font-weight: bolder;
+}
+.ab2{
+	text-indent: 32px;
+	color: black;
+	font-size: 30px;
+}
+.news{
+	width: 400px;
+	height: 600px;
+	float: left;
+	margin-top: 250px;
+	padding-left: 80px;
+	padding-right:40px ;
+}
+.about{
+	width: 400px;
+	height: 600px;
+	float: right;
+	margin-top: 250px;
+	
+}

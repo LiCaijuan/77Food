@@ -1,0 +1,83 @@
+.nav{
+	list-style: none;
+	background-color: cadetblue;
+	width: 1000px;
+	margin: 30px auto ;
+	overflow: hidden;
+	
+	}
+.nav li{
+	float: left;
+}
+.nav a{
+	display: block;
+	width: 200px;
+	text-align: center;
+	padding: 6px 0;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 32px;
+}
+.nav li:hover{
+	background-color: darkslategrey;
+}
+
+.logo{
+	padding-left: 80px;
+	height: 350px;
+	width: 100%;
+	background-image: url(../img/banner.png);
+	background-size: 100% auto;
+}
+
+.hongshao{
+	width: 420px;
+	height: 420px;
+	background-image: url(../img/hongshao.gif);
+	margin:120px 50px;
+	float: left;
+}
+.name1{
+	position: relative;
+	margin: 490px 150px;
+	font-size: 20px;
+	
+}
+.yuxiang{
+	width: 420px;
+	height: 420px;
+	margin-top:120px;
+	float: right;
+	background-image: url(../img/yuxiang.gif);
+}
+.name2{
+	position: relative;
+	margin: 490px 150px;
+	font-size: 20px;
+}
+.tudou{
+	width: 420px;
+	height: 420px;
+	background-image: url(../img/tudou.gif);
+	margin:150px 50px;
+	float: left;
+}
+.name3{
+	position: relative;
+	margin: 490px 150px;
+	font-size: 20px;
+}
+
+.nm{
+	width: 420px;
+	height: 420px;
+	background-image: url(../img/dongpo.gif);
+	margin-top:150px ;
+	float: right;
+}
+.name4{
+	position: relative;
+	margin: 490px 150px;
+	font-size: 20px;
+}

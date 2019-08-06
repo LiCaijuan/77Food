@@ -1,0 +1,48 @@
+.nav{
+	list-style: none;
+	background-color: cadetblue;
+	width: 1000px;
+	margin: 30px auto ;
+	overflow: hidden;
+	
+	}
+.nav li{
+	float: left;
+}
+.nav a{
+	display: block;
+	width: 200px;
+	text-align: center;
+	padding: 6px 0;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 32px;
+}
+.nav li:hover{
+	background-color: darkslategrey;
+}
+
+.logo{
+	padding-left: 80px;
+	height: 350px;
+	width: 100%;
+	background-image: url(../img/banner.png);
+	background-size: 100% auto;
+}
+
+a{
+	 text-decoration: none;
+}
+#p1{
+	font: 40px "幼圆";
+	color: darkslategray;
+}
+#t1{
+	font: 16px "幼圆";
+	color: darkgray;
+}
+#n1{
+	font: 25px "幼圆";
+	color: black;
+}
